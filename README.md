@@ -84,6 +84,7 @@ mallzii-app/
 ├─ postcss.config.mjs
 ├─ tailwind.config.ts
 └─ tsconfig.json
+```
 
 ## 5. Cài đặt & Chạy dev
 ```bash
