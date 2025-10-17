@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150">
+  <!-- Chữ lớn MALLZII -->
+  <text x="50%" y="60" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="60" font-weight="900" fill="black">
+    MALLZII
+  </text>
+  
+  <!-- Chữ nhỏ MALLZII STORE -->
+  <text x="50%" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="8" fill="black">
+    MALLZII STORE
+  </text>
+</svg>
