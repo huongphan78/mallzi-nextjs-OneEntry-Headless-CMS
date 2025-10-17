@@ -102,6 +102,7 @@ npm run dev
 ## 5. Hướng dẫn sử dụng OneEntry
 - OneEntry là Headless CMS — nghĩa là chỉ phần quản lý nội dung (backend), không bao gồm giao diện frontend. Bạn dùng API hoặc SDK để fetch dữ liệu hiển thị. Nó cung cấp giao diện quản trị dễ dùng, khả năng định nghĩa “module” như Catalog, Menu, Forms, Pages, Attributes.
 - Quản lý nội dung trong OneEntry :
+
  *Catalog* → thêm/sửa sản phẩm.  
  *Pages* → tạo trang nội dung mới.  
  *Menu* → thiết lập menu điều hướng.  
