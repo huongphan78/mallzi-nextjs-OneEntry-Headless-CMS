@@ -38,7 +38,7 @@
 ---
 
 ## 4. Cấu trúc thư mục
-
+```bash
 mallzii-app/
 ├─ app/
 │  ├─ api/
